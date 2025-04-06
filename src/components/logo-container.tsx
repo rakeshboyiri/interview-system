@@ -4,7 +4,7 @@ export const LogoContainer = () => {
   return (
     <Link to={"/"}>
       <img
-        src="public/assets/img/logo/rguktlogo.png"
+        src="/assets/img/logo/rguktlogo.png"
         alt=""
         className="max-w-12 min-h-10 object-contain"
       />

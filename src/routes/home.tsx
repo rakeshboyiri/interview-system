@@ -16,7 +16,7 @@ const HomePage = () => {
               AI Virtual Interview System
             </span>
             <span className="text-gray-500 font-extrabold">
-              - A better way to
+              Take your first Interview
             </span>
             <br />
             improve your interview chances and skills
